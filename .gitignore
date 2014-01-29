@@ -1,0 +1,8 @@
+/.venv*
+/bin
+/dist
+*~
+*.pyc
+__pycache__
+*.egg
+*.egg-info

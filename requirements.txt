@@ -1,0 +1,4 @@
+# apt-get  install build-essential python-dev protobuf-compiler libprotobuf-dev
+imposm.parser
+elasticsearch
+
